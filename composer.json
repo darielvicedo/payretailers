@@ -1,0 +1,26 @@
+{
+    "name": "darielvicedo/payretailers",
+    "description": "Client library for PayRetailers API",
+    "keywords": [
+        "payretailers",
+        "payment",
+        "ecommerce",
+        "e-commerce"
+    ],
+    "homepage": "https://github.com/darielvicedo/payretailers",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Darielvicedo\\Payretailers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dariel Vicedo",
+            "email": "darielvicedo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
